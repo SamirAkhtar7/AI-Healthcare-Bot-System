@@ -1,6 +1,5 @@
 import React from "react";
 import { Info, Heart } from "lucide-react";
-
 const About = () => {
   return (
     <div className="container mx-auto px-4 py-16">
